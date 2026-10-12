@@ -4,10 +4,6 @@
 
 ### Turning raw restaurant data into clear, actionable insights
 
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-E23744?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-F4B183?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ### 👇 Click the image to open the live dashboard 👇
 

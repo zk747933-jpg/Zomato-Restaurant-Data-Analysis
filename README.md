@@ -9,7 +9,7 @@
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-F4B183?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-[🔗 **View Live Dashboard**](PASTE_YOUR_SHEET_LINK_HERE)
+[🔗 **View Live Dashboard**](https://docs.google.com/spreadsheets/d/10wpjN9wPpKnrFkiHdCLRGB_jx5_LgTrgDDDd5Rg9af0/edit?gid=770104463#gid=770104463)
 
 <br>
 
@@ -113,19 +113,18 @@ The KPI cards and all charts update automatically.
 ```
 📦 zomato-dashboard
  ┣ 📜 README.md
- ┣ 📁 images
- ┃ ┣ 🖼️ dashboard.png
- ┃ ┗ 🖼️ dashboard_india_filter.png
- ┗ 📊 Zomato_Dashboard.xlsx
+ ┗ 📁 images
+   ┣ 🖼️ dashboard.png
+   ┗ 🖼️ dashboard_india_filter.png
 ```
 
-The workbook has separate tabs for each analysis question (Q-4 to Q-9 subjective questions) and a final **Dashboard** tab.
+The Google Sheet has separate tabs for each analysis question (Q-4 to Q-9 subjective questions) and a final **Dashboard** tab.
 
 ---
 
 ## 🚀 How to Use
 
-1. Open the [Google Sheets dashboard](PASTE_YOUR_SHEET_LINK_HERE) or download the `.xlsx` file.
+1. Open the [Google Sheets dashboard](https://docs.google.com/spreadsheets/d/10wpjN9wPpKnrFkiHdCLRGB_jx5_LgTrgDDDd5Rg9af0/edit?gid=770104463#gid=770104463).
 2. Go to the **Dashboard** tab.
 3. Use the slicers to filter by country and year.
 4. Watch the KPIs and charts update instantly.
@@ -136,10 +135,10 @@ The workbook has separate tabs for each analysis question (Q-4 to Q-9 subjective
 
 <div align="center">
 
-**Your Name**
+**Zishan Khan**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zk747933-jpg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zishan-khan-6525b421b)
 
 ⭐ **If you liked this project, give it a star!** ⭐
 

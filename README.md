@@ -5,15 +5,15 @@
 ### Turning raw restaurant data into clear, actionable insights
 
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-E23744?style=for-the-badge&logo=zomato&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-E23744?style=for-the-badge)
 ![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-F4B183?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-[🔗 **View Live Dashboard**](https://docs.google.com/spreadsheets/d/10wpjN9wPpKnrFkiHdCLRGB_jx5_LgTrgDDDd5Rg9af0/edit?gid=770104463#gid=770104463)
+### 👇 Click the image to open the live dashboard 👇
 
-<br>
+[![Zomato Performance Dashboard](dashboard.png)](https://docs.google.com/spreadsheets/d/10wpjN9wPpKnrFkiHdCLRGB_jx5_LgTrgDDDd5Rg9af0/edit?gid=770104463#gid=770104463)
 
-<img src="images/dashboard.png" alt="Zomato Performance Dashboard" width="100%">
+[🔗 **Open Live Dashboard**](https://docs.google.com/spreadsheets/d/10wpjN9wPpKnrFkiHdCLRGB_jx5_LgTrgDDDd5Rg9af0/edit?gid=770104463#gid=770104463)
 
 </div>
 
@@ -38,13 +38,9 @@ This project analyzes **9,551 Zomato restaurants** across multiple countries and
 
 ## 📊 Key Metrics
 
-<div align="center">
-
 | 🏪 Restaurants | 🗳️ Total Votes | ⭐ Average Rating |
 |:-:|:-:|:-:|
 | **9,551** | **1,498,645** | **2.9** |
-
-</div>
 
 ---
 
@@ -71,18 +67,13 @@ Use the slicers on the right side of the dashboard to explore the data:
 
 The KPI cards and all charts update automatically.
 
-<details>
-<summary><b>👉 Click to see an example: Filtered by India</b></summary>
-
-<br>
+### Example: Filtered by India
 
 | 🏪 Restaurants | 🗳️ Total Votes | ⭐ Average Rating |
 |:-:|:-:|:-:|
 | **8,652** | **1,187,163** | **2.8** |
 
-<img src="images/dashboard_india_filter.png" alt="Dashboard filtered by India" width="100%">
-
-</details>
+![Dashboard filtered by India](dashboard_india_filter.png)
 
 ---
 
@@ -105,18 +96,6 @@ The KPI cards and all charts update automatically.
 | **Charts** | Column, bar and line charts |
 | **Slicers** | Interactive filtering |
 | **Formulas** | Currency conversion to INR, aggregations |
-
----
-
-## 📂 Repository Structure
-
-```
-📦 zomato-dashboard
- ┣ 📜 README.md
- ┗ 📁 images
-   ┣ 🖼️ dashboard.png
-   ┗ 🖼️ dashboard_india_filter.png
-```
 
 The Google Sheet has separate tabs for each analysis question (Q-4 to Q-9 subjective questions) and a final **Dashboard** tab.
 
